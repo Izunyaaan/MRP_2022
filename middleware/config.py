@@ -1,0 +1,5 @@
+HOST = 'https://izulearnstg.i.tgcloud.io'
+USERNAME = 'tigergraph'
+PASSWORD = 'lorena'
+GRAPHNAME = 'MyGraph'
+SECRET = 'fgi8ut9ablidk563mr1k6qrogmvktn94'
